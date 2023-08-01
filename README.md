@@ -1,5 +1,12 @@
 # RobotFramework
-Functional Test Automation with RobotFramework using Python and Selenium
+Functional Test Web Automation with RobotFramework using Python and Selenium.
+
+# Prerequisites
+1) Install Python (pip included).
+2) Install Supporting IDE (Pycharm IDE preferred).
+3) Install robotframework. 
+4) Install selenium and robotframework-selenium library using pip commands.
+
 
 *** Test Cases ***
 
